@@ -1,7 +1,7 @@
-# Sensor Seal Server Library
-The Sensor Seal Server library allows you to run a Sensor Seal gateway server and perform customized processing of raw measurements.
-## Available for multiple programming languages
-- C/C++
+# Lorbrand Sensor Seal Server Framework
+The Sensor Seal Server Framework allows you to create a customized Sensor Seal Gateway Server and perform customized processing of raw measurements.
+## Written in C++, with interfaces coming for these languages
+- JavaScript (Node.js runtime)
 - Java
 - Python
-- JavaScript (Node.js)
+- Rust
